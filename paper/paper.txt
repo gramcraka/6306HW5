@@ -1,0 +1,1 @@
+These data shows several "groups" of data when we compare gross square feet to sale price and list price. There is a group that shows a correlation between gross square feet and price. There are also several groups where the price is unaffected by the gross square feet. These unaffected price groups appear as horizontal "bands" on the log plots.
